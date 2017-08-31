@@ -7,10 +7,5 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <groupId>com.javatpoint.application1</groupId>  
   <artifactId>FindingDory</artifactId>  
   <version>1</version>  
-   <dependency>
-   	<groupId>org.testng</groupId>
-      	<artifactId>testng</artifactId>
-      	<version>6.9.x</version>
-      	<scope>test</scope>
- </dependency>
+ 
 </project>
